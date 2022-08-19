@@ -1,0 +1,60 @@
+
+
+body {
+    background-image: url(/assets/abstract-white-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+   #tarjeta{
+    margin-left: 350px;
+    margin-top: 100px;
+    width: 800px;
+    height: 500px;
+    background-color: rgba(219, 219, 219, 0.055);
+    border-radius: 5%;
+    opacity: 0.85
+    
+
+}
+  #fotito {
+    margin-left: 350px;
+    margin-top: 80px;
+    height: 500px;
+    width: 400px;
+    border-radius: 20%;
+    position: absolute;
+    padding: 5%;
+    left: 0;
+    top: 0;
+    
+  }
+  #nombre{
+    font-family: 'Meow Script', cursive;
+    margin-left: 400px;
+    margin-top: 100px;
+    padding-top: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 72px;
+    color: rgb(27, 37, 31);
+  }
+  #text {
+    float: right;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 350px;
+    margin-top: 2px;
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+  }
+   
+    
+#botoncito {
+  margin-left: 520px;
+}
